@@ -1,0 +1,8 @@
+[submodule "rasa"]
+	path = rasa
+	url = https://github.com/chapkovski/min_med_rasa.git
+	branch = master
+[submodule "django"]
+	path = django
+	url = https://github.com/chapkovski/django_rasa_connect.git
+	branch = master
