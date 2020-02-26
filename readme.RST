@@ -8,7 +8,7 @@
 
 4. Set :code:`.env` file from :code:`.env.example` with your twilio credentials and phone to send stuff (INPHONE) and registered phone to send TO (OUTPHONE)
 
-5. Run :code:'python manage.py createsuperuser' to create an access to admin pages
+5. Run :code:`python manage.py createsuperuser` to create an access to admin pages
 
 6. Run :code:`python manage.py runserver`
 
