@@ -1,3 +1,4 @@
+0. Pull this and fetch the submodules: `git submodule update --init`
 1. Train rasa: `rasa train`
 2. Launch rasa action server: `rasa run actions`
 3. In a separate process run rasa API: `rasa run --enable-api`
