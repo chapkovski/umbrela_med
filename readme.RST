@@ -12,6 +12,9 @@
 
 6. Run :code:`python manage.py runserver`
 
+6.1. Run :code: `./ngrok http 8000`
+6.2. In Twilio console add the ngrok address + :code:`/med/` to the SMS redirect
+
 7. Go to :code:`localhost:8000`.
 
 8. Add new request to the :code:`requests` table.
