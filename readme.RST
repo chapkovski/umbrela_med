@@ -6,8 +6,7 @@
 
 3. In a separate process run rasa API: :code:`rasa run --enable-api`
 
-4. Set :code:`.env` file from :code:`.env.example` with your twilio credentials and phone to send stuff (INPHONE)
-and registered phone to send TO (OUTPHONE)
+4. Set :code:`.env` file from :code:`.env.example` with your twilio credentials and phone to send stuff (INPHONE) and registered phone to send TO (OUTPHONE)
 
 5. Run :code:'python manage.py createsuperuser' to create an access to admin pages
 
